@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Expense Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash_screen">Expense Tracker</string>
+    <string name="Gender_prompt">Categories</string>
+
+    <string-array name="Gender_arrays">
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+        <item>Medical</item>
+        <item>Travel</item>
+        <item>Other</item>
+    </string-array>
+</resources>
